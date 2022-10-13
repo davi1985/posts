@@ -55,7 +55,7 @@ console.log(guitarHeros);
 ];
 ```
 
-Observemos que os dados do Kiko estão inserido no final do nosso array. Uma curiosidade sobre o método _push()_ é que ele retorna o tamanho do array, mais um simples exemplo para entendermos:
+Observemos que os dados do Kiko estão inseridos no final do nosso array. Uma curiosidade sobre o método _push()_ é que ele retorna o tamanho do array, mais um simples exemplo para entendermos:
 
 ```js
 const numbers = [2, 3, 5, 1, 4];
@@ -79,7 +79,7 @@ const languages = [
 ];
 ```
 
-Vamos adicionar a nossa lista de linguagens as informações referentes a linguagem C++, mas vamos adiciona no início do nosso array, para isso usaremos o método _unshift()_:
+Vamos adicionar a nossa lista de linguagens as informações referentes a linguagem C++, mas vamos adicionar no início do nosso array, para isso usaremos o método _unshift()_:
 
 ```js
 const cPlusPlus = { id: 4, name: "C++", birth: 1983 };
